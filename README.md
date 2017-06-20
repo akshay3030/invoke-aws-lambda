@@ -1,5 +1,9 @@
 # invoke-aws-lambda HTTP Get & Post Using Spring-Boot with Plain Old Java Way
 
+
+#spring mvc and Jersey servlet
+
+
 #HTTP POST
 endpoint : http://localhost:9000/invoke/lambda?name=scoring
 body: {"x":6,"y":5}
